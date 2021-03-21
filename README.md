@@ -1,2 +1,1 @@
-# first-project
-site html
+# second-html-project
